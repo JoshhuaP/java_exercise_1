@@ -1,0 +1,1 @@
+javac -d bin $(find ./src/HelloWorld.java -type f -name '*.java')
